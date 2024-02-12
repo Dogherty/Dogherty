@@ -45,9 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/sqlitebrowser.png" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
   <img src="https://console.kamatera.com/assets/images/os/os_django.png" title="Django" alt="Django" width="60" height="60"/>&nbsp;
-  <img src="https://www.django-rest-framework.org/img/logo.png" title="Django Rest Framework" alt="Django Rest Framework" width="120" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/html.png" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" title="Django Rest Framework" alt="Django Rest Framework" width="120" height="60"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-16-1175195.png" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" title="Docker" alt="Docker" width="106" height="60"/>&nbsp;
 
 ---
 
