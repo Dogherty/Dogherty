@@ -51,45 +51,40 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-16-1175195.png" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" title="Docker" alt="Docker" width="106" height="60"/>&nbsp;
+</div>
 
 ---
 
 ### :fire: My Stats :
-
+<div align="center">
 <table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=dogherty&theme=dark&background=000000" alt="GitHub Streak">
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogherty&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
       </a>
     </td>
   </tr>
 </table>
-<p align="center"><strong>Me at CodeWars:</strong></p>
-<p align="center">
-  <a href="https://www.codewars.com/users/Dogherty"">
-    <img src="https://www.codewars.com/users/Dogherty/badges/large" alt="codewars">
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <p align="center"><strong>Me at CodeWars:</strong></p>
+      <p><a href="https://www.codewars.com/users/Dogherty"">
+        <img src="https://www.codewars.com/users/Dogherty/badges/large" alt="codewars">
+      </a></p>
+    </td>
+    <td>
+      <p align="center"><strong>Me at LeetCode:</strong></p>
+      <p><a href="https://github.com/KnlnKS/leetcode-stats">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=vzemeow&theme=dark" alt="vzemeow's LeetCode stats">
+      </a></p>
+    </td>
+  </tr>
+</table>
 </div>
-
-<!--
-**Dogherty/Dogherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
