@@ -35,7 +35,7 @@
   
 - :zap: In my free time I solve problems on CodeWars, read technical articles and create small programs.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dogherty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-shnaider-b20866294/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nikita%20Shnaider-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-shnaider-b20866294/)
   
 ---
 
